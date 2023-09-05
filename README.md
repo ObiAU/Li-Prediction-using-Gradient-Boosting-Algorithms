@@ -1,5 +1,4 @@
-# MDS-Code
-Code files developed during my MSc Data Science Master's Degree at Durham University.
+## Li Prediction in Geological Samples using XGBoost
 This study aims to explore the effectiveness of machine learning algorithms in pre-
 dicting lithium content within geological samples. An evolving modeling baseline was
 employed to incorporate successive key findings, offering an enhanced platform for
